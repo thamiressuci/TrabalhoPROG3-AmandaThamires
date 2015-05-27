@@ -1,0 +1,8 @@
+Programacao Estruturada
+Conceitos de programacao estruturada em c, tipos de dados, estruturas de repeticao e bla bla
+001
+90 HORAS
+Arquitetura de Computadores
+Estudo de varios tipos de arquitetura, maquina de turing, neander e ramses e etc.
+002
+75 HORAS

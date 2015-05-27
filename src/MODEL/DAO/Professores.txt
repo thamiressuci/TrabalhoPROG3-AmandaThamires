@@ -1,0 +1,12 @@
+Eric de Assis Pereira
+144.563.000-18
+DCEL
+2
+Programação Estruturada
+Conceitos de programação estruturada em c, tipos de dados, estruturas de repetição e bla bla
+001
+DMA
+Arquitetura de Computadores
+Estudo de vários tipos de arquitetura, máquina de turing, neander e ramses e etc.
+002
+75 HORAS
